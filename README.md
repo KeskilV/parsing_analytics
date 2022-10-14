@@ -1,2 +1,2 @@
 # parsing_analytics
-# JN - folder for devolpments via jupyter notebook
+# ipynb - folder for devolpments via jupyter notebook
