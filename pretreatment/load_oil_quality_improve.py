@@ -1,3 +1,6 @@
+import pandas as pd
+
+
 def choosefile(io=None):
     '''
     v22-10-13
@@ -57,7 +60,7 @@ def check_columns(data, controlcolumns, ignore_extra=True):
         return set_columns == set_data_columns
 
 
-def firstclear(df):
+def firstclear(df:pd.DataFrame) -> pd.DataFrame:
     '''
     v22-10-12
     Signature:

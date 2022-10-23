@@ -6,5 +6,5 @@
 
 # data - data file for study
 
-#pr etreatment - package for treat and reserch the parsing
+#pretreatment - package for treat and reserch the parsing
 
