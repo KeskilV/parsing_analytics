@@ -15,8 +15,7 @@ the folder for unittest for stabl Pycharm version
 # Журнал
 для заметок
 ### 2022-11-09
-решено ввести журнал :))
-### 2022-11-09
-в parsing_analytics\ipynb\data добавил результаты парсинга из https://github.com/KeskilV/parsing_sunlight
-
+- решено ввести журнал :))
+- в parsing_analytics\ipynb\data добавил результаты парсинга из https://github.com/KeskilV/parsing_sunlight
+- в parsing_analytics/ipynb/sql_training.ipynb создал sqlit3 db - 'jewelery.db' вставил сампл в таблицу 'sun_sample'
 
